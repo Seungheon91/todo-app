@@ -2,7 +2,6 @@ import {
   useCallback,
   useReducer,
   useRef,
-  useState
 } from "react";
 import TodoInsert from "./components/TodoInsert";
 import TodoList from "./components/TodoList";
